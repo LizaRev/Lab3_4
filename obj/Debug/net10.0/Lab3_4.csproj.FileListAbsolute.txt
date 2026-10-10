@@ -1,0 +1,15 @@
+/Users/elizavetarevun/Lab3_4/bin/Debug/net10.0/Lab3_4
+/Users/elizavetarevun/Lab3_4/bin/Debug/net10.0/Lab3_4.deps.json
+/Users/elizavetarevun/Lab3_4/bin/Debug/net10.0/Lab3_4.runtimeconfig.json
+/Users/elizavetarevun/Lab3_4/bin/Debug/net10.0/Lab3_4.dll
+/Users/elizavetarevun/Lab3_4/bin/Debug/net10.0/Lab3_4.pdb
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.AssemblyInfoInputs.cache
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.AssemblyInfo.cs
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.csproj.CoreCompileInputs.cache
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.sourcelink.json
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.dll
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/refint/Lab3_4.dll
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.pdb
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/Lab3_4.genruntimeconfig.cache
+/Users/elizavetarevun/Lab3_4/obj/Debug/net10.0/ref/Lab3_4.dll
